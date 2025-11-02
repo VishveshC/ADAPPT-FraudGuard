@@ -6,7 +6,7 @@ A comprehensive, production-ready fraud detection platform built with Flask, fea
 
 
 
----## ✨ Features
+## ✨ Features
 
 
 
@@ -74,7 +74,7 @@ Navigate to: **http://127.0.0.1:5000**
 
 ## 🌟 Core Features
 
-```
+
 
 ### 🔐 **Authentication & Security**├── app.py              # Main application (models, forms, routes)
 
